@@ -67,8 +67,8 @@ Para rodar este projeto, você precisa executar o **Frontend** e o **Backend** s
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [LINK_DO_SEU_REPOSITORIO]
-    cd [NOME_DA_PASTA]
+    git clone https://github.com/MarcaoCA/ProjetoFinalDeFrontEndGrupo3
+    cd ProjetoFinalDeFrontEndGrupo3
     ```
 
 2.  **Instale as dependências do Backend:**
