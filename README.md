@@ -23,7 +23,7 @@ Este projeto é uma aplicação **Full Stack**, utilizando tecnologias de fronte
     * **HTML5:** Estrutura e semântica das páginas.
     * **CSS3:** Estilização, layout com Flexbox e responsividade com Media Queries.
     * **Bootstrap 5:** Componentes de formulário para uma melhor UI/UX.
-    * **JavaScript (Vanilla):** Lógica da calculadora, manipulação do DOM e comunicação (`fetch API`) com o backend.
+    * **JavaScript:** Lógica da calculadora, manipulação do DOM e comunicação (`fetch API`) com o backend.
 
 * **Backend:**
     * **Node.js:** Ambiente de execução do servidor.
@@ -103,7 +103,7 @@ Conheça os especialistas que dão vida ao **Nutrir & Viver**:
 
 | Nome              |
 | :---------------- |
-| Bruno Barbosa     |
+| Bruno Barbosa  dos Santos   |
 | Diana Souza Ribeiro |
 | Lucca Zappala     |
 | Enzo Converso     |
