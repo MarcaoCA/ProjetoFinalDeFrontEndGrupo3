@@ -67,7 +67,7 @@ Para rodar este projeto, você precisa executar o **Frontend** e o **Backend** s
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/MarcaoCA/ProjetoFinalDeFrontEndGrupo3
+    git clone https://github.com/MarcaoCA/ProjetoFinalDeFrontEndGrupo3.git
     cd ProjetoFinalDeFrontEndGrupo3
     ```
 
