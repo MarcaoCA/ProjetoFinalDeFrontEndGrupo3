@@ -48,7 +48,7 @@ CALCULADORA NUTRICIONAL/
    - contato.html
    - quemsomos.html
 ### env   (Arquivo local para a chave da API - NÃO COMPARTILHAR)
-##.gitignore
+## gitignore
 ## index.html    (Página inicial - Calculadora)
 ## package.json
 ## package-lock.json
